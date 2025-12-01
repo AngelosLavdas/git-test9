@@ -1,5 +1,5 @@
 ### IntelliJ IDEA ###
-out/
+out/git
 .idea/
 GitTest9.iml
 **/*.log
